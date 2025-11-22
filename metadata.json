@@ -1,0 +1,5 @@
+{
+  "name": "Netplan Trainer Pro",
+  "description": "Интерактивный онлайн-тренажер для настройки конфигурации сети через Netplan (Ubuntu/Debian). Изучайте синтаксис YAML, визуализируйте подключения и проверяйте ошибки с помощью ИИ.",
+  "requestFramePermissions": []
+}
